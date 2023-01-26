@@ -1,0 +1,15 @@
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\bin\Debug\net6.0\algorithm-problems.exe
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\bin\Debug\net6.0\algorithm-problems.deps.json
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\bin\Debug\net6.0\algorithm-problems.runtimeconfig.json
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\bin\Debug\net6.0\algorithm-problems.dll
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\bin\Debug\net6.0\algorithm-problems.pdb
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.csproj.AssemblyReference.cache
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.AssemblyInfoInputs.cache
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.AssemblyInfo.cs
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.csproj.CoreCompileInputs.cache
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.dll
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\refint\algorithm-problems.dll
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.pdb
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\algorithm-problems.genruntimeconfig.cache
+C:\Users\edin-\source\repos\algorithm-problems\algorithm-problems\obj\Debug\net6.0\ref\algorithm-problems.dll
